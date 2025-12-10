@@ -61,3 +61,6 @@ def calculate_progress():
     money_saved = round(cigs_saved * (PACK_COST / CIGS_PER_PACK), 2)
 
     return days, total_hours, minutes, cigs_saved, money_saved
+
+
+print("PROVEROCHKA")
